@@ -2,7 +2,7 @@
 
 ▶️ A very humble search engine and YouTube video player, made with React.js 🎥
 
-<img src="youtube-clone.gif" alt="germancutraro-youtube-app" />
+
 
 ## Installation
 
